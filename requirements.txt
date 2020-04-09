@@ -32,7 +32,7 @@ pandas==0.23.1
 protobuf==3.6.0
 pyasn1==0.4.3
 pyasn1-modules==0.2.1
-pycryptodome==3.4.3
+pycryptodome==3.6.6
 pygal==2.4.0
 pygal-maps-world==1.0.2
 pygame==1.9.3
