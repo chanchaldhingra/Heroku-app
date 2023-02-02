@@ -57,4 +57,4 @@ tensorflow==1.8.0
 termcolor==1.1.0
 Theano==1.0.2
 virtualenv==16.0.0
-Werkzeug==0.14.1
+Werkzeug==0.15.5
